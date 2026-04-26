@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning python and playing with block chain and DeFi... love Kevin Rose's Modern Finance podcast...
 - 💞️ I’m looking to collaborate on just about anything fintech, block chain/crpto, and cyber sec/ransomeware sec projects
 - 📫 How to reach me LinkedIn is probably easy https://www.linkedin.com/in/johnmontague/
-- 📫 How to reach me john@novusrx.com... but I get a ton of email and spam so call if you want 813-649-9300
+- 📫 How to reach me john@executivefocus.io... but I get a ton of email and spam so call if you want 813-649-9300
 
 <!---
 johnmontague/johnmontague is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
